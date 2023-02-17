@@ -15,3 +15,4 @@ Abrir Pull Request da develop para a release e mergear.
 Abrir pull request da release para a main. 
 
 Obs:  Na branch feature, deve alterar o arquivo readme.md
+- alteração no readme
